@@ -43,11 +43,4 @@
 ---
 
 _Gracias por visitar mi perfil. ¡Estoy abierto a nuevas oportunidades y desafíos!_
-"""
 
-# Guardar como archivo README.md
-readme_path = "/mnt/data/README_BrayanMallma.md"
-with open(readme_path, "w", encoding="utf-8") as f:
-    f.write(readme_content)
-
-readme_path
