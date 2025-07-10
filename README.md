@@ -1,16 +1,6 @@
 
 # 👋 Hi, I'm Brayan Mallma
 
-🎓 I’m a graduate in **Computer Science and Information Technology** from CIBERTEC Institute.  
-💻 I’m passionate about **backend development** using Java, Spring Boot, and microservices architecture.  
-🧠 I have experience with JWT authentication, API documentation with Swagger, service discovery with Eureka, and API Gateway.  
-🌐 I also work with frontend technologies like HTML, CSS, JavaScript, jQuery, and Bootstrap.  
-🚀 I'm constantly learning and looking to grow as a backend or fullstack developer.
-
----
-
-## 🛠️ Technologies I Work With
-
 ### Programming Languages:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -38,15 +28,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
----
-
-## 💼 Featured Projects
-
-### 📘 Enrollment Registration System
-An academic project developed using Spring Boot with microservices architecture, SQL Server database, and a simple frontend using HTML, CSS, and JavaScript.  
-Includes JWT authentication, REST API testing with Postman, and API documentation with Swagger.
-
----
 
 ## 📊 GitHub Stats
 
@@ -64,11 +45,4 @@ Includes JWT authentication, REST API testing with Postman, and API documentatio
 ---
 
 _Thanks for visiting my profile. I'm open to new opportunities and challenges!_
-"""
 
-# Guardar el archivo en inglés
-readme_en_path = "/mnt/data/README_BrayanMallma_EN.md"
-with open(readme_en_path, "w", encoding="utf-8") as f:
-    f.write(readme_content_en)
-
-readme_en_path
