@@ -1,6 +1,4 @@
 
-
-readme_content = """
 # 👋 ¡Hola! Soy Brayan Mallma
 
 🎓 Soy egresado de la carrera de **Computación e Informática** del Instituto CIBERTEC.  
