@@ -28,12 +28,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-
-## 📊 GitHub Stats
-
-![Brayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=brayanmallma&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brayanmallma&layout=compact&theme=github_dark)
-
 ---
 
 ## 🌐 Contact
