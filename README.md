@@ -30,18 +30,8 @@
 
 ---
 
-## 💼 Proyectos Destacados
-
-### 📘 Sistema de Registro de Matrícula
-Aplicación desarrollada con Spring Boot, arquitectura de microservicios, base de datos SQL Server y frontend básico en HTML, CSS y JavaScript.  
-Incluye autenticación con JWT, pruebas con Postman y documentación Swagger.
 
 ---
-
-## 📊 Estadísticas
-
-![Brayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=brayanmallma&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brayanmallma&layout=compact&theme=github_dark)
 
 ---
 
@@ -49,7 +39,6 @@ Incluye autenticación con JWT, pruebas con Postman y documentación Swagger.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/brayan-mallma-ccorimanya-86409127a/)
 - 📧 isaac123ccorimanya@gmail.com
-- 🧰 [GitHub](https://github.com/brayanmallma)
 
 ---
 
