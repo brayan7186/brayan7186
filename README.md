@@ -1,12 +1,6 @@
 
 # 👋 ¡Hola! Soy Brayan Mallma
 
-🎓 Soy egresado de la carrera de **Computación e Informática** del Instituto CIBERTEC.  
-💻 Me apasiona el desarrollo **backend** con Java, Spring Boot y arquitectura de microservicios.  
-🧠 Manejo tecnologías como JWT, Swagger, Eureka, API Gateway, además de conocimientos en frontend con HTML, CSS, JS y Bootstrap.  
-🚀 Estoy en constante aprendizaje, siempre buscando crecer como desarrollador backend o fullstack.
-
----
 
 ## 🛠 Tecnologías que manejo
 
