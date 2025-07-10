@@ -2,8 +2,6 @@
 # 👋 ¡Hola! Soy Brayan Mallma
 
 
-## 🛠 Tecnologías que manejo
-
 ### Lenguajes de programación:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
